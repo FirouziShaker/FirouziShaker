@@ -1,9 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17500
-Fork on GitHub
-5090
+
 [![MasterHead](https://www.trio.dev/hubfs/laptop-sand-clock.webp)](https://firouzishaker.io)
 <h1 align="center">Hi 👋, I'm Abolfazl Firouzi Shaker</h1>
 <h3 align="center">A passionate learner from Iran</h3>
