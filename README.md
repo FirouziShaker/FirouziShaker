@@ -1,15 +1,22 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+17500
+Fork on GitHub
+5090
 [![MasterHead](https://www.trio.dev/hubfs/laptop-sand-clock.webp)](https://firouzishaker.io)
 <h1 align="center">Hi 👋, I'm Abolfazl Firouzi Shaker</h1>
 <h3 align="center">A passionate learner from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmYXd3a29rM3FsaWl6MWh3OHh3bmplcTJscGU3ODJ1MzRyYjloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firouzishaker&label=Profile%20views&color=0e75b6&style=flat" alt="firouzishaker" /> </p>
+
 - 🌱 I’m currently learning **Python , Linux**
 
 - 📫 How to reach me **shaker.abolfazl@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abolfazl-firouzi-shaker-52b839286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abolfazl-firouzi-shaker-52b839286/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abolfazl-firouzi-shaker-52b839286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-firouzi-shaker-52b839286/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
