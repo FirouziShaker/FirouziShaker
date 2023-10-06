@@ -1,4 +1,3 @@
-
 [![MasterHead](https://www.trio.dev/hubfs/laptop-sand-clock.webp)](https://firouzishaker.io)
 <h1 align="center">Hi 👋, I'm Abolfazl Firouzi Shaker</h1>
 <h3 align="center">A passionate learner from Iran</h3>
