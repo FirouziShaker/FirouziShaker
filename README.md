@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmYXd3a29rM3FsaWl6MWh3OHh3bmplcTJscGU3ODJ1MzRyYjloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firouzishaker&label=Profile%20views&color=0e75b6&style=flat" alt="firouzishaker" /> </p>
 
-- 🌱 I’m currently learning **Python , Linux**
+- 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **shaker.abolfazl@yahoo.com**
+- 📫 How to reach me **firouzishakerabolfazl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
