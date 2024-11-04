@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sam </h1>
+<h1 align="center">Hi 👋, I'm Abolfazl </h1>
 <h3 align="center">A passionate learner from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlmYXd3a29rM3FsaWl6MWh3OHh3bmplcTJscGU3ODJ1MzRyYjloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firouzishaker&label=Profile%20views&color=0e75b6&style=flat" alt="firouzishaker" /> </p>
